@@ -6,7 +6,7 @@ Projects
 ----------
 Here are some of the projects I've worked on:
 
-* [Project 1](https://github.com/WinTush/littlelemon) - A Django Rest Framework project
+* [Project 1](https://github.com/WinTush/littlelemon) - A Django Rest Framework project for the Meta Backend Specialization
 <!--* A simple web application that uses OpenAI's Whisper API to transcribe audio files-->
 <!--* Project 2 - An Android app that helps users track their daily water intake.-->
 <!--* Project 3 - A command-line tool for converting CSV files to JSON.-->
