@@ -22,16 +22,16 @@ I'm also an active contributor to the following open-source projects:
 -->
 Stats
 -----
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-one-bice.vercel.app/api?username=WinTush&show_icons=true&include_all_commits=true&count_private=true&hide=issues&role=OWNER,COLLABORATOR&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-one-bice.vercel.app/api?username=WinTush&show_icons=true&include_all_commits=true&count_private=true&hide=issues&role=OWNER,COLLABORATOR&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-one-bice.vercel.app/api?username=WinTush&show_icons=true&include_all_commits=true&count_private=true&hide=issues&role=OWNER,COLLABORATOR&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-one-bice.vercel.app/api?username=WinTush&show_icons=true&include_all_commits=true&count_private=true&hide=issues&role=OWNER,COLLABORATOR&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 Top Languages
 -------------
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=WinTush&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=WinTush&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=WinTush&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=WinTush&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 Getting Started
 ---------------
-Feel free to create an issue or pull request if you're interested in collaborating on any of my projects. I'm always looking for feedback and new ideas.
+Feel free to create an issue or pull request if you want to collaborate on any of my projects. I'm always looking for feedback and new ideas.
 
 Thank you for visiting my Github account!
