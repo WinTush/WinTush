@@ -19,15 +19,16 @@ I'm also an active contributor to the following open-source projects:
 * Project A - A popular web framework for building scalable applications.
 * Project B - A library for parsing and manipulating dates and times in Python.
 * Project C - A command-line interface for managing Docker containers.
-
+-->
 Stats
 -----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinTush&show_icons=true&theme=radical)
--->
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-one-bice.vercel.app/api?username=WinTush&show_icons=true&include_all_commits=true&count_private=true&hide=issues&role=OWNER,COLLABORATOR&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-one-bice.vercel.app/api?username=WinTush&show_icons=true&include_all_commits=true&count_private=true&hide=issues&role=OWNER,COLLABORATOR&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 Top Languages
 -------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinTush&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=WinTush&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=WinTush&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 Getting Started
 ---------------
