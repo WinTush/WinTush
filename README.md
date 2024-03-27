@@ -1,6 +1,6 @@
 Welcome to my GitHub account!
 
-As a software developer, I am constantly learning and growing my skills. This Github account is a place where I share my personal projects and contributions to the open-source community.
+As a software developer, I am constantly learning and growing my skills. This Github account is where I share my projects and contributions to the open-source community.
 
 Projects
 ----------
@@ -31,6 +31,6 @@ Top Languages
 
 Getting Started
 ---------------
-If you're interested in collaborating on any of my projects, feel free to create an issue or pull request. I'm always looking for feedback and new ideas.
+Feel free to create an issue or pull request if you're interested in collaborating on any of my projects. I'm always looking for feedback and new ideas.
 
 Thank you for visiting my Github account!
